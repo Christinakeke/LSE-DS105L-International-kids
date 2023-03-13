@@ -1,2 +1,2 @@
-# LSE-DS105L-International-Kids
+# LSE-DS105L-International-kids
 This is mine
