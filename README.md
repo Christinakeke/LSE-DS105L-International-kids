@@ -1,4 +1,5 @@
 # LSE-DS105L-International-kids
-This is mine
 
-Good morning!!!
+## SOOOO EXPENSIVE
+
+### Data investigation of the correlation between exchange rate vs inflation rate
