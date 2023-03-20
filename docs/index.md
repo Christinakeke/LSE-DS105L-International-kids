@@ -8,9 +8,9 @@ date-meta: 20 March 2023
 
 **Team members:** 
 
-- [Member 1]()
-- [Member 2]()
-- [Member 3]()
+- [ChristinaK(e Chen)]()
+- [Yujia Zhu]()
+- [Maggie Miao]()
 
 ## 📝 Project Description
 
