@@ -8,7 +8,7 @@ date-meta: 20 March 2023
 
 **Team members:** 
 
-- [ChristinaK(e Chen)]()
+- [Christina (Ke Chen)]()
 - [Yujia Zhu]()
 - [Maggie Miao]()
 
