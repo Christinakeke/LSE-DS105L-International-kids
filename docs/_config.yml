@@ -30,8 +30,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-markdown: GFM
-theme: leap day
+markdown: Kmarkdown
+theme: Cayman
 plugins:
   - jekyll-feed
 
