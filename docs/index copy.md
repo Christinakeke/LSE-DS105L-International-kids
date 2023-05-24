@@ -81,4 +81,3 @@ For inflation rate, we used static data from OECD website. We collected inflatio
 ## 🖋️ Conclusions
 
 ## 📚 References
-[Link to Another File](index copy.md)
